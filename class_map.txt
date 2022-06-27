@@ -1,0 +1,8 @@
+# 车牌类别映射
+# 暂时不做细分
+0 background
+1 blue
+2 green
+3 black
+4 white
+5 yellow
