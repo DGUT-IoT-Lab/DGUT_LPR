@@ -1,0 +1,1 @@
+# Example images folder
